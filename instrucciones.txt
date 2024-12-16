@@ -1,0 +1,9 @@
+Usar un entorno de desarrollo más avanzado:
+1.- npm install -g ts-node-dev
+2.- ts-node-dev --respawn file.ts
+
+Esto evita estar haciendo todo el tiempo 
+tsc filt.ts
+node file.js
+
+Se ejecuta directamente el archivo typeScript
